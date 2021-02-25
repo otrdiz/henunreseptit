@@ -18,7 +18,3 @@ Keitetty vesi.
 
 - Siirrä tarjoiluastiaan
 - Nauti
-
-## Kuvat
-
-https://www.kotikokki.net/media/cache/large/recipeimage/large/52d6e201d074a9ec0e0ca8f9/original.jpg?1298122502
