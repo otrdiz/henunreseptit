@@ -16,7 +16,7 @@ Keitetty vesi.
 
 ## Tarjoilu
 
-- Siirrä tarjoilu astiaan
+- Siirrä tarjoiluastiaan
 - Nauti
 
 ## Kuvat
